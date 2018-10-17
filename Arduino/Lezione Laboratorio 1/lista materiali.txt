@@ -1,0 +1,5 @@
+-Arduino UNO
+-cablaggio vario
+-switch / interruttore 
+-resistenza 4700 ohm
+-condonsatore 1000µF 25V 85°C(M)
